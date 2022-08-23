@@ -59,7 +59,7 @@ and you need to choose the appropriate option to install MySQL product and featu
 we are going to select a Custom option because there is a need for only MySQL Server and Workbench. 
 If you need more features, you can choose the Full option.
 
-INSERT IMAGE https://static.javatpoint.com/mysql/images/mysql-workbench2.png
+# INSERT IMAGE https://static.javatpoint.com/mysql/images/mysql-workbench2.png
 
  
 
