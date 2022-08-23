@@ -54,6 +54,13 @@ The following requirements should be available in your system to work with MySQL
  WebClient wc = new WebClient(); 
 wc.DownloadFile(https://static.javatpoint.com/mysql/images/mysql-workbench.png, FileName_You_Want_to_Store_It_As);
 
+# Step 2: Choose the Setup Type and click on the Next button. There are several types available, 
+and you need to choose the appropriate option to install MySQL product and features. Here, 
+we are going to select a Custom option because there is a need for only MySQL Server and Workbench. 
+If you need more features, you can choose the Full option.
+
+INSERT IMAGE https://static.javatpoint.com/mysql/images/mysql-workbench2.png
+
  
 
 
