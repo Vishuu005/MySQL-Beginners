@@ -46,7 +46,7 @@ The following requirements should be available in your system to work with MySQL
 
 # Step 1: Install the MySQL Community Server. To install MySQL Server, double click the MySQL installer .exe file. After clicking the .exe file, you can see the following screen:
  
-  Insert into SFMC_HTML_Images (HTML_Image) 
+  Insert into SFMC_HTML_Images (mysql-workbench.png) 
  Select BulkColumn FROM OPENROWSET( 
  BULK 'mysql-workbench.png', 
  DATA_SOURCE = 'MySQL-Tutorial', SINGLE_BLOB) AS ImageFile; 
