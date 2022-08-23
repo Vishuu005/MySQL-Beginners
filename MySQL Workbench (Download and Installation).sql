@@ -50,6 +50,9 @@ The following requirements should be available in your system to work with MySQL
  Select BulkColumn FROM OPENROWSET( 
  BULK 'mysql-workbench.png', 
  DATA_SOURCE = 'MySQL-Tutorial', SINGLE_BLOB) AS ImageFile; 
+ 
+ WebClient wc = new WebClient(); 
+wc.DownloadFile(https://static.javatpoint.com/mysql/images/mysql-workbench.png, FileName_You_Want_to_Store_It_As);
 
  
 
